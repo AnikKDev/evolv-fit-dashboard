@@ -1,0 +1,53 @@
+[
+    {
+        "_id": "62dc29032bb8b9666dbe79fa",
+        "name": "Leila Dunlap",
+        "email": "abc@email.com",
+        "stepsWalked": "2000",
+        "stepsTarget": "4000",
+        "performedDate": "15th Oct",
+        "scheduledDate": "30th Oct",
+        "calorieIntake": "20",
+        "calorieTarget": "40",
+        "proteinConsumed": "20",
+        "proteinTarget": "40",
+        "carbConsumed": "20",
+        "carbTarget": "40",
+        "fatConsumed": "20",
+        "fatTarget": "40"
+    },
+    {
+        "_id": "62dc2903f7829c332fe89002",
+        "name": "Jordan Rojas",
+        "email": "abc@email.com",
+        "stepsWalked": "2000",
+        "stepsTarget": "4000",
+        "performedDate": "15th Oct",
+        "scheduledDate": "30th Oct",
+        "calorieIntake": "20",
+        "calorieTarget": "40",
+        "proteinConsumed": "20",
+        "proteinTarget": "40",
+        "carbConsumed": "20",
+        "carbTarget": "40",
+        "fatConsumed": "20",
+        "fatTarget": "40"
+    },
+    {
+        "_id": "62dc2903c0151c4fe30c8c2b",
+        "name": "Wilda Jackson",
+        "email": "abc@email.com",
+        "stepsWalked": "2000",
+        "stepsTarget": "4000",
+        "performedDate": "15th Oct",
+        "scheduledDate": "30th Oct",
+        "calorieIntake": "20",
+        "calorieTarget": "40",
+        "proteinConsumed": "20",
+        "proteinTarget": "40",
+        "carbConsumed": "20",
+        "carbTarget": "40",
+        "fatConsumed": "20",
+        "fatTarget": "40"
+    }
+]
